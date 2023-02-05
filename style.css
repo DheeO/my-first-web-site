@@ -2,7 +2,8 @@ body {
     margin: 0;
 }
 a {
-    color:black;
+    color:blue;
+    text-decoration: none;
 }
 h1 {
     font-size: 50px;
@@ -27,8 +28,8 @@ ol {
     padding-left: 40px;
 }
 #grid #article {
-   padding-left: 30px;
-  padding-right: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 @media(max-width: 800px) {
   #grid {
